@@ -6,7 +6,7 @@ function xmenu($X,$X_table,$X_cloumn,$X_id)
             //Check for empty STACK
             if (count($items) > 0)
                 {
-                    //if you have class for Parent ul add here
+                    //if you have class for Child ul add here
                     $class="header__menu__dropdown";
                     if ($X==0){$class="";}
                     echo('<ul class="'.$class.'">');
