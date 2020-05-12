@@ -1,5 +1,5 @@
 # X_menu
-Show All records of Menu with sub menu using Query builder
+Show All records of Menu with sub menu using just one Query builder
 # Config
 Add **xmenu.php.blade** file into the '**Views**' folder of your laravel.
 include **xmenu** on your blade view
